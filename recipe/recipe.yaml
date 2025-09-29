@@ -1,5 +1,5 @@
 context:
-  version: "3.0.0"
+  version: "3.0.2"
 
 package:
   name: blitz
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/blitz/-/blitz-${{ version }}.tgz
-  sha256: 4c028116dc866c3ec341cea01af5da7068e1c9782a02c7725a12f2cd1c15371f
+  sha256: 8f559826c66c80e8d43d8f3de2e85caa6f3f9fb87ed085a7b9655fb1bb5234d3
 
 build:
   noarch: generic
